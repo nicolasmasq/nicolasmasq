@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Masquelier</h1>
-- Hi, I am currently working on [Tech Match Platform](https://techmatch.streamlit.app/)
+- Hi, I am currently working on Tech Match Platform : https://techmatch.streamlit.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
